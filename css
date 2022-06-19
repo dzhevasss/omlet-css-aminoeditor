@@ -1,0 +1,104 @@
+[class~=timestamp-public-chat__message__WFemH],
+[class~=msg-content-wrap__message__1Xb7j] 
+[class~=user-icon-container__message__2QQ5w]
+{display:none;}.msg-content-wrap__message__1Xb7j .msg-content__message__3pgTv.msg-align-left__message__1KrzQ,[class~=msg-header__message__3cO-g]{display:flex;}[class~=msg-header__message__3cO-g]{flex-wrap:wrap;}[class~=msg-container__message__2_Y4y][class~=msg-container-tall]{margin-top:.083333333in;}[class~=msg-header__message__3cO-g]{padding-top:.375pc;}[class~=cmp-verified-badge]{margin-left:4px;}[class~=msg-container__message__2_Y4y][class~=msg-container-tall]{margin-top:.625pc;}[class~=msg-container__message__2_Y4y][class~=msg-container-tall]{margin-bottom:0px; margin-top: 0px;}[class~=cmp-verified-badge]{top:-.005208333in;}[class~=msg-sender__msg-sender__1IhEU] [class~=sender-name][class~=other]{color:#ffb048;}
+
+.msg-content-wrap__message__1Xb7j .msg-body-container__message__2diBT {
+    margin-top: 2px;
+}  
+.dashboard-live-status-bar {
+    font-family: ubuntu;
+    display: flex;
+    width: 100%;
+    min-width: 792px;
+    height: 70px;
+    margin-top: 60px;
+    background-color: #2d2f41;
+    border-radius: 2px;
+    box-shadow: 0 -1px 1px 0 rgba(0,0,0,.25), 0 2px 10px 0 rgba(0,0,0,.5);
+    /* position: unset; */
+}
+body {
+    font-family: ubuntu;
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    background-color: #000000c9;
+}
+:-webkit-scrollbar {
+    width: 2px;
+}
+.omletbar-store-icon-box .omletbar-store-icon {
+    display: none;
+}
+
+.btn-container__get-token-button__1LxnY {
+    display: none;
+}
+.container__get-token-button__1Nn2Z {
+    display: none;
+}
+.speech-bubble__get-token-button__3hO3M {
+    display: none;
+}
+.dashboard-viewer-list {
+    display: none;
+}
+.dashboard-icon-container {
+    display: none;
+}
+.tab-bar {
+    background-color: #232533;
+}
+.stream-dashboard-navigation .navigation-block {
+    text-align: center;
+    /* text-indent: 16px; */
+}
+.dashboard-live-status-bar .dashboard-live-status .dashboard-live-text {
+    position: absolute;
+    font-family: ubuntu;
+    font-size: 12px;
+}
+#omlet-bar .logo-name {
+    display: none;
+}
+.omletbar-more-popup {
+    right: -105px !important;
+    width: 220px !important;
+}
+.popup {
+    background-color: #161720;
+}
+.hotness-tool-widget__hotness-tool-widget__xXtur .get-more-btn__hotness-tool-widget__1CBO7 {
+    display: none;
+}
+.dashboard-live-view .dashboard-right-column {
+    flex: 0;
+    min-width: 330px;
+    display: flex;
+}
+.dashboard-viewer-container {
+    flex: 0;
+    min-width: 260px;
+}
+.dashboard-live-status-bar .dashboard-share-button .dashboard-live-text {
+    display: none;
+}
+.dashboard-live-status-bar .dashboard-share-button img {
+    display: none;
+}
+.dashboard-live-status-bar .dashboard-share-button {
+    display: none;
+}
+.dashboard-live-status-bar .toolbar-border-box {
+    display: none;
+}
+.foldable-widget__foldable-widget__2qw9G .widget-header__foldable-widget__1bwbT .title__foldable-widget__oxKpF {
+    flex: 0.9;
+    text-align: center;
+}
+.foldable-widget__foldable-widget__2qw9G.minimized__foldable-widget__n0uv6 {
+    flex: 0;
+    display: block;
+    margin-bottom: 10px;
+}
