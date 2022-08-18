@@ -7,7 +7,7 @@
     margin-top: 2px;
 }  
 .dashboard-live-status-bar {
-    font-family: ubuntu;
+    font-family: Sans-Serif;
     display: flex;
     width: 100%;
     min-width: 792px;
@@ -19,11 +19,11 @@
     /* position: unset; */
 }
 body {
-    font-family: ubuntu;
+    font-family: Sans-Serif;
     font-size: 14px;
     font-weight: 300;
     color: #fff;
-    background-color: #000000c9;
+    background-color: #161720;
 }
 :-webkit-scrollbar {
     width: 2px;
